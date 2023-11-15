@@ -17,7 +17,6 @@ I'm constantly learning and adapting to keep up with the latest trends in cloud 
 🤝 Let's Connect
 Feel free to reach out if you're looking for a collaborator on a project, need some guidance, or just want to chat about all things Azure and DevOps!
 
-Regards
-Sid
+Regards - Sid
 
 _"Simplicity is the soul of efficiency." - Austin Freeman_
